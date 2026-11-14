@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-14",
   "events": [
     {
       "id": "nuejazz-festival-2026-10-23",
@@ -10,7 +10,10 @@
       "category": "Festival",
       "confirmed": true,
       "note": "Jazzfestival an vielen Spielorten",
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "martinikirchweih-2026-11-06",
@@ -21,7 +24,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": "Innenstadt: Hauptstraße, Marktplatz, Badgasse",
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "altstaedter-weihnachtsmarkt-2026-11-23",
@@ -32,7 +38,10 @@
       "category": "Markt",
       "confirmed": true,
       "note": "Altstädter Kirchplatz",
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "erlanger-waldweihnacht-2026-11-23",
@@ -43,7 +52,10 @@
       "category": "Markt",
       "confirmed": true,
       "note": "Schlossplatz",
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "fuerther-weihnachtsmarkt-mit-mittelaltermarkt-2026-11-26",
@@ -54,7 +66,10 @@
       "category": "Markt",
       "confirmed": true,
       "note": "Fürther Freiheit, täglich 10–21 Uhr",
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "christkindlesmarkt-2026-11-27",
@@ -65,7 +80,10 @@
       "category": "Markt",
       "confirmed": true,
       "note": "Hauptmarkt, Eröffnung Fr 17:30 Uhr mit Prolog",
-      "url": "https://www.christkindlesmarkt.de"
+      "url": "https://www.christkindlesmarkt.de",
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "fuerther-altstadtweihnacht-2026-12-04",
@@ -76,7 +94,10 @@
       "category": "Markt",
       "confirmed": true,
       "note": "Altstadt, Waagplatz",
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "silvesterpartys-2026-12-31",
@@ -87,7 +108,10 @@
       "category": "Party",
       "confirmed": true,
       "note": "In vielen Clubs und Sälen der Region",
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "nuernberger-fastnachtszug-2027-02-07",
@@ -98,7 +122,10 @@
       "category": "Party",
       "confirmed": false,
       "note": "Faschingssonntag, 13 Uhr ab Stadtpark",
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kinderfaschingszug-2027-02-08",
@@ -109,7 +136,10 @@
       "category": "Party",
       "confirmed": false,
       "note": "Rosenmontag, Innenstadt",
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "fruehlingsvolksfest-2027-03-27",
@@ -120,7 +150,10 @@
       "category": "Volksfest",
       "confirmed": true,
       "note": "Volksfestplatz Dutzendteich",
-      "url": "https://volksfest-nuernberg.de"
+      "url": "https://volksfest-nuernberg.de",
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "blaue-nacht-2027-04-24",
@@ -131,7 +164,10 @@
       "category": "Festival",
       "confirmed": true,
       "note": "Altstadt, Motto „Der Sonne so nah“",
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "internationales-figurentheater-festival-2027-04-30",
@@ -142,7 +178,10 @@
       "category": "Festival",
       "confirmed": true,
       "note": "Auch in Nürnberg, Fürth und Schwabach",
-      "url": "https://www.figurentheaterfestival.de"
+      "url": "https://www.figurentheaterfestival.de",
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-kleinreuth-h-d-v-2027-05-06",
@@ -153,7 +192,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-schweinau-2027-05-06",
@@ -164,7 +206,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-moegeldorf-2027-05-13",
@@ -175,7 +220,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "erlanger-bergkirchweih-2027-05-13",
@@ -186,7 +234,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": "272. Berg, An den Kellern",
-      "url": "https://erlangen.de/en/aktuelles/bergkirchweih-2026"
+      "url": "https://erlangen.de/en/aktuelles/bergkirchweih-2026",
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-laufamholz-2027-05-14",
@@ -197,7 +248,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-gostenhof-2027-05-21",
@@ -208,7 +262,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "fraenkisches-bierfest-2027-05-26",
@@ -219,7 +276,10 @@
       "category": "Volksfest",
       "confirmed": false,
       "note": "Burggraben, längster Biergarten Europas",
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-nordostbahnhof-2027-05-27",
@@ -230,7 +290,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "rock-im-park-2027-06-04",
@@ -241,7 +304,10 @@
       "category": "Festival",
       "confirmed": true,
       "note": "Zeppelinfeld, u. a. blink-182",
-      "url": "https://www.rock-im-park.com"
+      "url": "https://www.rock-im-park.com",
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-grossreuth-h-d-v-2027-06-11",
@@ -252,7 +318,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-grossreuth-b-schweinau-2027-06-18",
@@ -263,7 +332,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-lohe-2027-06-18",
@@ -274,7 +346,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "johannis-kirchweih-st-johannis-2027-06-18",
@@ -285,7 +360,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-eibach-2027-06-18",
@@ -296,7 +374,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "st-katharina-open-air-2027-06-18",
@@ -307,7 +388,10 @@
       "category": "Festival",
       "confirmed": true,
       "note": "Konzerte in der Katharinenruine",
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "garlic-land-festival-2027-06-19",
@@ -318,7 +402,10 @@
       "category": "Party",
       "confirmed": true,
       "note": "Elektro-Festival, Festival Summer am Flughafen",
-      "url": "https://festivalsummer-nuernberg.de"
+      "url": "https://festivalsummer-nuernberg.de",
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-gebersdorf-2027-06-24",
@@ -329,7 +416,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-gartenstadt-2027-06-25",
@@ -340,7 +430,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "musicfest-ion-2027-06-25",
@@ -351,7 +444,10 @@
       "category": "Festival",
       "confirmed": true,
       "note": "Internationale Orgelwoche, Kirchenmusik",
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "erlanger-schlossgartenfest-2027-06-26",
@@ -362,7 +458,10 @@
       "category": "Festival",
       "confirmed": false,
       "note": "Letzter Samstag im Juni, Tickets nötig",
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "latin-airport-festival-2027-06-26",
@@ -373,7 +472,10 @@
       "category": "Party",
       "confirmed": true,
       "note": "Latin-Party am Airport Nürnberg, Einlass 13:30",
-      "url": "https://festivalsummer-nuernberg.de/latin-airport-festival/"
+      "url": "https://festivalsummer-nuernberg.de/latin-airport-festival/",
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "open-air-sommer-im-stadionpark-2027-06-27",
@@ -384,7 +486,10 @@
       "category": "Konzert",
       "confirmed": true,
       "note": "U. a. Bryan Adams 27.6., Simply Red 29.6., Alligatoah 8.7., Zartmann 9.7., Unheilig 10.7.",
-      "url": "https://www.stadionpark.com"
+      "url": "https://www.stadionpark.com",
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-kleinreuth-b-schweinau-2027-07-02",
@@ -395,7 +500,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-kornburg-2027-07-02",
@@ -406,7 +514,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-schniegling-2027-07-02",
@@ -417,7 +528,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-wetzendorf-2027-07-02",
@@ -428,7 +542,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "sommerkirchweih-herzogenaurach-2027-07-02",
@@ -439,7 +556,10 @@
       "category": "Kirchweih",
       "confirmed": false,
       "note": "Weihersbach, 10 Tage, Abschlussfeuerwerk",
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "n1-super-sommer-sause-2027-07-03",
@@ -450,7 +570,10 @@
       "category": "Party",
       "confirmed": true,
       "note": "Party-Festival am Airport Nürnberg",
-      "url": "https://festivalsummer-nuernberg.de"
+      "url": "https://festivalsummer-nuernberg.de",
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "save-the-core-2027-07-03",
@@ -461,7 +584,10 @@
       "category": "Festival",
       "confirmed": true,
       "note": "Punkrock-Festival im Stadionpark",
-      "url": "https://www.save-the-core.de"
+      "url": "https://www.save-the-core.de",
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "fuerth-festival-2027-07-09",
@@ -472,7 +598,10 @@
       "category": "Festival",
       "confirmed": false,
       "note": "5 Bühnen in der Innenstadt, Eintritt frei",
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-almoshof-2027-07-09",
@@ -483,7 +612,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-altenfurt-2027-07-09",
@@ -494,7 +626,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-buch-2027-07-09",
@@ -505,7 +640,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": "9.–12. und 14.7.",
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kulturinsel-woehrmuehle-2027-07-12",
@@ -516,7 +654,10 @@
       "category": "Festival",
       "confirmed": false,
       "note": "Open-Air-Konzerte auf der Regnitz-Insel",
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-buchenbuehl-2027-07-16",
@@ -527,7 +668,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-boxdorf-2027-07-16",
@@ -538,7 +682,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-brunn-2027-07-23",
@@ -549,7 +696,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-ziegelstein-2027-07-23",
@@ -560,7 +710,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": "23.–26.7. und 28.7.–1.8.",
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "klassik-open-air-staatsphilharmonie-2027-07-25",
@@ -571,7 +724,10 @@
       "category": "Konzert",
       "confirmed": true,
       "note": "Luitpoldhain, 20 Uhr, Eintritt frei",
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "bardentreffen-2027-07-30",
@@ -582,7 +738,10 @@
       "category": "Festival",
       "confirmed": true,
       "note": "Altstadt, Weltmusik, Eintritt frei",
-      "url": "https://bardentreffen.nuernberg.de"
+      "url": "https://bardentreffen.nuernberg.de",
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-fischbach-2027-07-30",
@@ -593,7 +752,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-reichelsdorf-2027-07-30",
@@ -604,7 +766,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-worzeldorf-2027-07-30",
@@ -615,7 +780,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-katzwang-2027-08-05",
@@ -626,7 +794,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "brueckenfestival-2027-08-06",
@@ -637,7 +808,10 @@
       "category": "Festival",
       "confirmed": false,
       "note": "Unter der Theodor-Heuss-Brücke, umsonst & draußen",
-      "url": "https://www.bruecken-festival.de"
+      "url": "https://www.bruecken-festival.de",
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-hoefles-2027-08-06",
@@ -648,7 +822,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-langwasser-2027-08-06",
@@ -659,7 +836,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-grossgruendlach-2027-08-06",
@@ -670,7 +850,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "klassik-open-air-nuernberger-symphoniker-2027-08-07",
@@ -681,7 +864,10 @@
       "category": "Konzert",
       "confirmed": true,
       "note": "Luitpoldhain, 20 Uhr, Eintritt frei",
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-woehrd-2027-08-20",
@@ -692,7 +878,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "erlanger-poet-innenfest-2027-08-27",
@@ -703,7 +892,10 @@
       "category": "Festival",
       "confirmed": true,
       "note": "Schlossgarten, Literaturfestival",
-      "url": "https://www.poetenfest-erlangen.de"
+      "url": "https://www.poetenfest-erlangen.de",
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "herbstvolksfest-2027-08-27",
@@ -714,7 +906,24 @@
       "category": "Volksfest",
       "confirmed": true,
       "note": "Volksfestplatz Dutzendteich",
-      "url": "https://volksfest-nuernberg.de"
+      "url": "https://volksfest-nuernberg.de",
+      "club": null,
+      "venue": null,
+      "time": null
+    },
+    {
+      "id": "tanzen-im-gruenen-2027-08-28",
+      "name": "Tanzen im Grünen",
+      "start": "2027-08-28",
+      "end": "2027-08-28",
+      "place": "Nürnberg",
+      "category": "Festival",
+      "confirmed": false,
+      "note": "Elektro-Festival im Marienbergpark, 13–23 Uhr, ab 18",
+      "url": "https://www.tanzen-im-gruenen.de/",
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-schnepfenreuth-2027-09-03",
@@ -725,7 +934,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "klaragassen-kirchweih-2027-09-10",
@@ -736,7 +948,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": "Altstadt",
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-neunhof-2027-09-10",
@@ -747,7 +962,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "altstadtfest-2027-09-15",
@@ -758,7 +976,10 @@
       "category": "Volksfest",
       "confirmed": false,
       "note": "Insel Schütt & Hans-Sachs-Platz",
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "kirchweih-kraftshof-2027-09-17",
@@ -769,7 +990,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": null,
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "michaelis-kirchweih-2027-10-02",
@@ -780,7 +1004,10 @@
       "category": "Kirchweih",
       "confirmed": true,
       "note": "Innenstadt, größte Straßenkirchweih Süddeutschlands",
-      "url": null
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "nuernberg-pop-festival-2027-10-07",
@@ -791,7 +1018,10 @@
       "category": "Festival",
       "confirmed": false,
       "note": "Club- und Showcase-Festival in der Altstadt",
-      "url": "https://www.nuernberg-pop.com"
+      "url": "https://www.nuernberg-pop.com",
+      "club": null,
+      "venue": null,
+      "time": null
     },
     {
       "id": "martinikirchweih-2027-11-05",
@@ -802,7 +1032,651 @@
       "category": "Kirchweih",
       "confirmed": false,
       "note": "Innenstadt",
+      "url": null,
+      "club": null,
+      "venue": null,
+      "time": null
+    }
+  ],
+  "clubs": [
+    {
+      "id": "e-werk-erlangen",
+      "name": "E-Werk",
+      "city": "Erlangen",
+      "address": "Fuchsenwiese 1",
+      "style": "80er, 90er, 2000er, Konzerte",
+      "description": "Größtes Kulturzentrum Erlangens. Regelmäßig Mottopartys wie 80er, „90er vs. 2000er“ oder ABBA-Party, dazu Silvester.",
+      "url": "https://www.e-werk.de/programm/partys/"
+    },
+    {
+      "id": "erlkoenig-barklub-erlangen",
+      "name": "Erlkoenig Barklub",
+      "city": "Erlangen",
+      "address": "Nürnberger Straße 1",
+      "style": "Lounge, Latin & Party",
+      "description": "Bar-Club gegenüber den Erlangen Arcaden mit eigener Tanzfläche. Meist ab 25 Jahren.",
       "url": null
+    },
+    {
+      "id": "new-force-erlangen",
+      "name": "New Force",
+      "city": "Erlangen",
+      "address": "Buckenhofer Weg 69",
+      "style": "Metal, Rock, EBM & Industrial",
+      "description": "„Frankens Metal-Schuppen“ seit 1982, günstige Getränke, nahe S-Bahn Paul-Gossen-Straße.",
+      "url": null
+    },
+    {
+      "id": "paisley-erlangen",
+      "name": "Paisley",
+      "city": "Erlangen",
+      "address": "Nürnberger Straße",
+      "style": "Hip-Hop, House, Deutschrap & 2000er",
+      "description": "Stylischer Club mit strengerer Tür. Kult ist der „Pornofasching“ im Februar und die After-Berg-Partys.",
+      "url": "https://www.paisley.de/"
+    },
+    {
+      "id": "transfer-erlangen",
+      "name": "Transfer",
+      "city": "Erlangen",
+      "address": "Westliche Stadtmauerstraße 8",
+      "style": "DJs & Live-Musik",
+      "description": "Bar, Club und Kneipe in einem, seit 1983, direkt am Bahnhof.",
+      "url": null
+    },
+    {
+      "id": "zirkel-erlangen",
+      "name": "Zirkel",
+      "city": "Erlangen",
+      "address": "Hauptstraße 105",
+      "style": "Techno (Fr), Partymix (Sa), Studentenabend (Di)",
+      "description": "Kellerclub für Studierende seit 1999. Zur Bergkirchweih besonders voll.",
+      "url": null
+    },
+    {
+      "id": "bombe-nuernberg",
+      "name": "Bombe",
+      "city": "Nürnberg",
+      "address": "Hallplatz 36",
+      "style": "Pop, Hip-Hop, House & Elektro",
+      "description": "Kult-Club, bei Studierenden beliebt. Geöffnet Di, Do, Fr und Sa, meist freier Eintritt.",
+      "url": null
+    },
+    {
+      "id": "club-stereo-nuernberg",
+      "name": "Club Stereo",
+      "city": "Nürnberg",
+      "address": "Klaragasse 8",
+      "style": "Indie, Discopunk, Elektro, Soul",
+      "description": "Kleiner Kellerclub in der Altstadt nahe Hauptbahnhof, auch mit Live-Konzerten.",
+      "url": null
+    },
+    {
+      "id": "der-cult-nuernberg",
+      "name": "Der Cult",
+      "city": "Nürnberg",
+      "address": "Dooser Straße 60",
+      "style": "Gothic, Neue Deutsche Härte & Themenpartys",
+      "description": "Vielseitiger Nachtclub mit Konzerten, Themennächten und kleinem Biergarten.",
+      "url": null
+    },
+    {
+      "id": "die-box-nuernberg",
+      "name": "Die Box",
+      "city": "Nürnberg",
+      "address": "Weintraubengasse 2",
+      "style": "Hits aus mehreren Jahrzehnten",
+      "description": "Bar-Club in der Altstadt, auch mit italienischen und anderen Themennächten.",
+      "url": null
+    },
+    {
+      "id": "die-rakete-nuernberg",
+      "name": "Die Rakete",
+      "city": "Nürnberg",
+      "address": "Vogelweiherstraße 64",
+      "style": "Techno & Elektro",
+      "description": "Bekanntester Techno-Club der Stadt mit Resident- und Gast-DJs. Oft lange Schlangen, samstags teils bis morgens um 10.",
+      "url": null
+    },
+    {
+      "id": "gate-club-nuernberg",
+      "name": "Gate Club (Flughafen)",
+      "city": "Nürnberg",
+      "address": "Airport Nürnberg, Flughafenstraße 100",
+      "style": "80er/90er, Latin, ABBA, Mitsing-Partys",
+      "description": "Club im Flughafen Nürnberg mit Dachterrasse. Viele Mottopartys für alle Altersgruppen (80er/90er, Latin, ABBA, Mitsingen), im Sommer auch Open Air.",
+      "url": null
+    },
+    {
+      "id": "gleis-x-club-nuernberg",
+      "name": "Gleis X Club",
+      "city": "Nürnberg",
+      "address": "Hauptbahnhof, Galerie West",
+      "style": "Hip-Hop, Black Music, Pop & Party",
+      "description": "Nachtclub direkt im Hauptbahnhof auf zwei Etagen.",
+      "url": null
+    },
+    {
+      "id": "haus-33-nuernberg",
+      "name": "Haus 33",
+      "city": "Nürnberg",
+      "address": "Engelhardsgasse 33",
+      "style": "Hard Techno & Hard Trance",
+      "description": "Kleiner Underground-Club am Jakobstor auf zwei Etagen. Wird spät nachts sehr voll.",
+      "url": null
+    },
+    {
+      "id": "hinz-x-kunz-nuernberg",
+      "name": "Hinz x Kunz",
+      "city": "Nürnberg",
+      "address": "Marientorgraben 13",
+      "style": "House & Techno (Kneipe), Hip-Hop & Latin (Klub)",
+      "description": "Kneipenklub mit zwei Bereichen: in der Kneipe House, Disco und Techno, im Klub Hip-Hop, Afrobeats und Latin. Sehr beliebt, oft Schlangen und Einlassstopp. Do 21–5 Uhr, Fr und Sa 22–5 Uhr.",
+      "url": null
+    },
+    {
+      "id": "hirsch-nuernberg",
+      "name": "Hirsch",
+      "city": "Nürnberg",
+      "address": "Vogelweiherstraße 66",
+      "style": "Konzerte & Partys",
+      "description": "Bekannte Konzerthalle neben der Rakete, mit Partys an Wochenenden und Feiertagen, auch an Weihnachten und Silvester.",
+      "url": null
+    },
+    {
+      "id": "kon71-nuernberg",
+      "name": "KON71",
+      "city": "Nürnberg",
+      "address": "Geisseestraße 71",
+      "style": "EBM, 80er, NDW & Dark Rock",
+      "description": "Gothic-Club in einer Jugendstilvilla in Schweinau, nahe S-Bahn Schweinau.",
+      "url": null
+    },
+    {
+      "id": "muzclub-nuernberg",
+      "name": "MUZclub",
+      "city": "Nürnberg",
+      "address": "Fürther Straße 63",
+      "style": "Alternative, Indie & Konzerte",
+      "description": "Kleiner Musikclub in Gostenhof mit Konzerten und Partys.",
+      "url": null
+    },
+    {
+      "id": "mach1-nuernberg",
+      "name": "Mach1",
+      "city": "Nürnberg",
+      "address": "Kaiserstraße 1–9",
+      "style": "Charts, Hits & Mottopartys",
+      "description": "Großer Club mitten in der Altstadt mit mehreren Floors. Regelmäßig Tour-Partys, z. B. Taylor-Swift- oder Michael-Jackson-Nächte.",
+      "url": null
+    },
+    {
+      "id": "resi-nuernberg",
+      "name": "Resi City Nightlife",
+      "city": "Nürnberg",
+      "address": "Hauptbahnhof, Galerie West",
+      "style": "Hip-Hop, Black Music, Pop & Party",
+      "description": "Nachtclub am Hauptbahnhof auf zwei Etagen. Viele Themenpartys, z. B. Afro, Latin, Balkan und ABBA-Mitsing-Partys.",
+      "url": null
+    },
+    {
+      "id": "z-bau-nuernberg",
+      "name": "Z-Bau",
+      "city": "Nürnberg",
+      "address": "Frankenstraße 200",
+      "style": "Konzerte, Elektro & alternative Partys",
+      "description": "Haus für Gegenwartskultur in einem alten Kasernenbau, mit Biergarten im Sommer.",
+      "url": null
+    }
+  ],
+  "clubEvents": [
+    {
+      "id": "party-blaulicht-union-party-2026-11-14",
+      "name": "Blaulicht-Union Party",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "place": "Nürnberg",
+      "category": "Party",
+      "confirmed": true,
+      "note": null,
+      "url": null,
+      "club": "gate-club-nuernberg",
+      "venue": null,
+      "time": null
+    },
+    {
+      "id": "party-dayrave-drumcomplex-murano-beach-gang-2026-11-14",
+      "name": "Dayrave: Drumcomplex & Murano Beach Gang",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "place": "Nürnberg",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Techno",
+      "url": null,
+      "club": "die-rakete-nuernberg",
+      "venue": null,
+      "time": "23:00"
+    },
+    {
+      "id": "party-techno-nacht-mit-and-2026-11-14",
+      "name": "Techno-Nacht mit AnD",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "place": "Nürnberg",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Techno",
+      "url": null,
+      "club": "haus-33-nuernberg",
+      "venue": null,
+      "time": "23:00"
+    },
+    {
+      "id": "party-fiesta-fuer-san-carlos-2026-11-14",
+      "name": "Fiesta für San Carlos",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "place": "Erlangen",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Weltmusik, Saal",
+      "url": null,
+      "club": "e-werk-erlangen",
+      "venue": null,
+      "time": "20:00"
+    },
+    {
+      "id": "party-mj-die-party-tour-2026-11-20",
+      "name": "MJ – Die Party Tour",
+      "start": "2026-11-20",
+      "end": "2026-11-20",
+      "place": "Nürnberg",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Michael-Jackson-Party",
+      "url": null,
+      "club": "mach1-nuernberg",
+      "venue": null,
+      "time": null
+    },
+    {
+      "id": "party-selection-of-harderstyles-2026-11-20",
+      "name": "Selection of Harderstyles",
+      "start": "2026-11-20",
+      "end": "2026-11-20",
+      "place": "Erlangen",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Hardstyle, Etage 1",
+      "url": null,
+      "club": "e-werk-erlangen",
+      "venue": null,
+      "time": "23:00"
+    },
+    {
+      "id": "party-puentez-6-00-pm-service-2026-11-21",
+      "name": "PUENTEZ – 6:00 PM Service",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "place": "Erlangen",
+      "category": "Party",
+      "confirmed": true,
+      "note": "EDM, Saal · ausverkauft",
+      "url": null,
+      "club": "e-werk-erlangen",
+      "venue": null,
+      "time": "18:00"
+    },
+    {
+      "id": "party-trapaholics-pres-neji-mp3-dusy-2026-11-27",
+      "name": "Trapaholics pres. neji.mp3 & dusy",
+      "start": "2026-11-27",
+      "end": "2026-11-28",
+      "place": "Nürnberg",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Trap & Hip-Hop",
+      "url": null,
+      "club": "mach1-nuernberg",
+      "venue": null,
+      "time": null
+    },
+    {
+      "id": "party-abba-party-2026-11-28",
+      "name": "ABBA Party",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "place": "Nürnberg",
+      "category": "Party",
+      "confirmed": true,
+      "note": null,
+      "url": null,
+      "club": "mach1-nuernberg",
+      "venue": null,
+      "time": null
+    },
+    {
+      "id": "party-90s-vs-2000er-2026-11-28",
+      "name": "90s vs. 2000er",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "place": "Erlangen",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Saal",
+      "url": null,
+      "club": "e-werk-erlangen",
+      "venue": null,
+      "time": "22:00"
+    },
+    {
+      "id": "party-clubtour-ens-2026-11-28",
+      "name": "Clubtour Ensō",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "place": "Erlangen",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Hardgroove, Etage 1",
+      "url": null,
+      "club": "e-werk-erlangen",
+      "venue": null,
+      "time": "23:00"
+    },
+    {
+      "id": "party-bon-jour-2026-12-02",
+      "name": "Bon Jour",
+      "start": "2026-12-02",
+      "end": "2026-12-02",
+      "place": "Nürnberg",
+      "category": "Party",
+      "confirmed": true,
+      "note": null,
+      "url": null,
+      "club": "club-stereo-nuernberg",
+      "venue": null,
+      "time": null
+    },
+    {
+      "id": "party-sin-capa-2026-12-04",
+      "name": "Sin Capa",
+      "start": "2026-12-04",
+      "end": "2026-12-04",
+      "place": "Nürnberg",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Glassevents",
+      "url": null,
+      "club": null,
+      "venue": "Nachtkind",
+      "time": null
+    },
+    {
+      "id": "party-emozioni-italiane-xmas-2026-12-05",
+      "name": "Emozioni Italiane Xmas",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "place": "Nürnberg",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Italo Pop, Italo Dancehall, Afrohouse, Latin",
+      "url": null,
+      "club": "die-box-nuernberg",
+      "venue": null,
+      "time": null
+    },
+    {
+      "id": "party-80er-party-2026-12-05",
+      "name": "80er Party",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "place": "Erlangen",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Saal & Etage 1",
+      "url": null,
+      "club": "e-werk-erlangen",
+      "venue": null,
+      "time": "21:00"
+    },
+    {
+      "id": "party-k-wave-2026-12-05",
+      "name": "K-Wave",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "place": "Erlangen",
+      "category": "Party",
+      "confirmed": true,
+      "note": "K-Pop, Etage 1",
+      "url": null,
+      "club": "e-werk-erlangen",
+      "venue": null,
+      "time": "23:00"
+    },
+    {
+      "id": "party-hoe-hoe-hoe-die-f-tzen-party-2026-12-11",
+      "name": "HOE HOE HOE – Die F*tzen Party",
+      "start": "2026-12-11",
+      "end": "2026-12-11",
+      "place": "Erlangen",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Hip-Hop, Etage 1",
+      "url": null,
+      "club": "e-werk-erlangen",
+      "venue": null,
+      "time": "22:00"
+    },
+    {
+      "id": "party-ipartypeople-disney-party-2026-12-12",
+      "name": "iPartyPeople Disney Party",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "place": "Nürnberg",
+      "category": "Party",
+      "confirmed": true,
+      "note": null,
+      "url": null,
+      "club": "mach1-nuernberg",
+      "venue": null,
+      "time": null
+    },
+    {
+      "id": "party-singalong-weihnachtssingen-2026-12-12",
+      "name": "SingAlong – Weihnachtssingen",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "place": "Nürnberg",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Das große Mitsing-Event",
+      "url": null,
+      "club": "gate-club-nuernberg",
+      "venue": null,
+      "time": null
+    },
+    {
+      "id": "party-riff-rage-2026-12-12",
+      "name": "Riff & Rage",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "place": "Erlangen",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Metal, Clubbühne",
+      "url": null,
+      "club": "e-werk-erlangen",
+      "venue": null,
+      "time": "22:00"
+    },
+    {
+      "id": "party-gimme-gimme-party-2026-12-18",
+      "name": "GIMME GIMME Party",
+      "start": "2026-12-18",
+      "end": "2026-12-18",
+      "place": "Nürnberg",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Mitsing-Show mit ABBA-Hits",
+      "url": null,
+      "club": "gate-club-nuernberg",
+      "venue": null,
+      "time": null
+    },
+    {
+      "id": "party-mamma-mia-die-abba-party-2026-12-19",
+      "name": "Mamma Mia! – Die ABBA-Party",
+      "start": "2026-12-19",
+      "end": "2026-12-19",
+      "place": "Erlangen",
+      "category": "Party",
+      "confirmed": true,
+      "note": "70er, Clubbühne",
+      "url": null,
+      "club": "e-werk-erlangen",
+      "venue": null,
+      "time": "21:00"
+    },
+    {
+      "id": "party-20xxer-party-2026-12-19",
+      "name": "20XXer-Party",
+      "start": "2026-12-19",
+      "end": "2026-12-19",
+      "place": "Erlangen",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Saal",
+      "url": null,
+      "club": "e-werk-erlangen",
+      "venue": null,
+      "time": "22:00"
+    },
+    {
+      "id": "party-dirty-over-thirty-2026-12-25",
+      "name": "Dirty Over Thirty",
+      "start": "2026-12-25",
+      "end": "2026-12-25",
+      "place": "Nürnberg",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Ü30-Party an Weihnachten",
+      "url": null,
+      "club": "hirsch-nuernberg",
+      "venue": null,
+      "time": null
+    },
+    {
+      "id": "party-day-rave-feiern-wie-frueher-nur-frueher-2026-12-26",
+      "name": "Day Rave: Feiern wie früher, nur früher",
+      "start": "2026-12-26",
+      "end": "2026-12-26",
+      "place": "Nürnberg",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Mit Anna Reusch",
+      "url": null,
+      "club": "die-rakete-nuernberg",
+      "venue": null,
+      "time": null
+    },
+    {
+      "id": "party-urlaub-fuers-gehirn-2026-12-26",
+      "name": "Urlaub fürs Gehirn",
+      "start": "2026-12-26",
+      "end": "2026-12-26",
+      "place": "Erlangen",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Kraftklub, K.I.Z, Kummer · Etage 1",
+      "url": null,
+      "club": "e-werk-erlangen",
+      "venue": null,
+      "time": "22:00"
+    },
+    {
+      "id": "party-new-year-party-80er-90er-2000er-2026-12-31",
+      "name": "New Year Party – 80er 90er 2000er",
+      "start": "2026-12-31",
+      "end": "2026-12-31",
+      "place": "Nürnberg",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Silvester",
+      "url": null,
+      "club": "hirsch-nuernberg",
+      "venue": null,
+      "time": null
+    },
+    {
+      "id": "party-silvester-im-e-werk-2026-12-31",
+      "name": "Silvester im E-Werk",
+      "start": "2026-12-31",
+      "end": "2026-12-31",
+      "place": "Erlangen",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Ganzes Haus",
+      "url": null,
+      "club": "e-werk-erlangen",
+      "venue": null,
+      "time": null
+    },
+    {
+      "id": "party-return-of-the-90s-2027-01-09",
+      "name": "Return of the 90s",
+      "start": "2027-01-09",
+      "end": "2027-01-09",
+      "place": "Erlangen",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Saal",
+      "url": null,
+      "club": "e-werk-erlangen",
+      "venue": null,
+      "time": null
+    },
+    {
+      "id": "party-singalong-greatest-hits-aller-zeiten-2027-01-16",
+      "name": "SingAlong – Greatest Hits aller Zeiten",
+      "start": "2027-01-16",
+      "end": "2027-01-16",
+      "place": "Nürnberg",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Das große Mitsing-Event",
+      "url": null,
+      "club": "gate-club-nuernberg",
+      "venue": null,
+      "time": null
+    },
+    {
+      "id": "party-twilight-halloween-night-2027-02-26",
+      "name": "Twilight Halloween Night",
+      "start": "2027-02-26",
+      "end": "2027-02-26",
+      "place": "Nürnberg",
+      "category": "Party",
+      "confirmed": true,
+      "note": null,
+      "url": null,
+      "club": "gleis-x-club-nuernberg",
+      "venue": null,
+      "time": null
+    },
+    {
+      "id": "party-singalong-hits-der-80er-und-fruehen-90er-2027-02-27",
+      "name": "SingAlong – Hits der 80er und frühen 90er",
+      "start": "2027-02-27",
+      "end": "2027-02-27",
+      "place": "Nürnberg",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Das große Mitsing-Event",
+      "url": null,
+      "club": "gate-club-nuernberg",
+      "venue": null,
+      "time": null
     }
   ]
 }
