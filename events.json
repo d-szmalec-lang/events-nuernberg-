@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "events": [
     {
       "id": "nuejazz-festival-2026-10-23",
@@ -1245,6 +1245,20 @@
       "time": null
     },
     {
+      "id": "party-fiesta-fuer-san-carlos-2026-11-14",
+      "name": "Fiesta für San Carlos",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "place": "Erlangen",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Weltmusik, Saal",
+      "url": null,
+      "club": "e-werk-erlangen",
+      "venue": null,
+      "time": "20:00"
+    },
+    {
       "id": "party-dayrave-drumcomplex-murano-beach-gang-2026-11-14",
       "name": "Dayrave: Drumcomplex & Murano Beach Gang",
       "start": "2026-11-14",
@@ -1271,20 +1285,6 @@
       "club": "haus-33-nuernberg",
       "venue": null,
       "time": "23:00"
-    },
-    {
-      "id": "party-fiesta-fuer-san-carlos-2026-11-14",
-      "name": "Fiesta für San Carlos",
-      "start": "2026-11-14",
-      "end": "2026-11-14",
-      "place": "Erlangen",
-      "category": "Party",
-      "confirmed": true,
-      "note": "Weltmusik, Saal",
-      "url": null,
-      "club": "e-werk-erlangen",
-      "venue": null,
-      "time": "20:00"
     },
     {
       "id": "party-mj-die-party-tour-2026-11-20",
@@ -1329,6 +1329,20 @@
       "time": "18:00"
     },
     {
+      "id": "party-why-so-serious-feat-frida-darko-2026-11-21",
+      "name": "WHY SO SERIOUS feat. Frida Darko",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "place": "Nürnberg",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Techno, Daytime Special",
+      "url": "https://dierakete.com/programm/",
+      "club": "die-rakete-nuernberg",
+      "venue": null,
+      "time": "23:00"
+    },
+    {
       "id": "party-trapaholics-pres-neji-mp3-dusy-2026-11-27",
       "name": "Trapaholics pres. neji.mp3 & dusy",
       "start": "2026-11-27",
@@ -1339,6 +1353,20 @@
       "note": "Trap & Hip-Hop",
       "url": null,
       "club": "mach1-nuernberg",
+      "venue": null,
+      "time": null
+    },
+    {
+      "id": "party-vitamin-d-2026-11-27",
+      "name": "Vitamin D",
+      "start": "2026-11-27",
+      "end": "2026-11-27",
+      "place": "Nürnberg",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Techno",
+      "url": "https://dierakete.com/programm/",
+      "club": "die-rakete-nuernberg",
       "venue": null,
       "time": null
     },
@@ -1455,6 +1483,20 @@
       "time": "23:00"
     },
     {
+      "id": "party-10-jahre-bassgefluester-2026-12-11",
+      "name": "10 Jahre Bassgeflüster",
+      "start": "2026-12-11",
+      "end": "2026-12-11",
+      "place": "Nürnberg",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Techno, Jubiläumsparty",
+      "url": "https://dierakete.com/programm/",
+      "club": "die-rakete-nuernberg",
+      "venue": null,
+      "time": null
+    },
+    {
       "id": "party-hoe-hoe-hoe-die-f-tzen-party-2026-12-11",
       "name": "HOE HOE HOE – Die F*tzen Party",
       "start": "2026-12-11",
@@ -1469,20 +1511,6 @@
       "time": "22:00"
     },
     {
-      "id": "party-ipartypeople-disney-party-2026-12-12",
-      "name": "iPartyPeople Disney Party",
-      "start": "2026-12-12",
-      "end": "2026-12-12",
-      "place": "Nürnberg",
-      "category": "Party",
-      "confirmed": true,
-      "note": null,
-      "url": null,
-      "club": "mach1-nuernberg",
-      "venue": null,
-      "time": null
-    },
-    {
       "id": "party-singalong-weihnachtssingen-2026-12-12",
       "name": "SingAlong – Weihnachtssingen",
       "start": "2026-12-12",
@@ -1493,6 +1521,20 @@
       "note": "Das große Mitsing-Event",
       "url": null,
       "club": "gate-club-nuernberg",
+      "venue": null,
+      "time": null
+    },
+    {
+      "id": "party-ipartypeople-disney-party-2026-12-12",
+      "name": "iPartyPeople Disney Party",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "place": "Nürnberg",
+      "category": "Party",
+      "confirmed": true,
+      "note": null,
+      "url": null,
+      "club": "mach1-nuernberg",
       "venue": null,
       "time": null
     },
@@ -1675,6 +1717,20 @@
       "note": "Das große Mitsing-Event",
       "url": null,
       "club": "gate-club-nuernberg",
+      "venue": null,
+      "time": null
+    },
+    {
+      "id": "party-klanglos-live-all-night-long-2027-04-09",
+      "name": "Klanglos (live) – All Night Long",
+      "start": "2027-04-09",
+      "end": "2027-04-09",
+      "place": "Nürnberg",
+      "category": "Party",
+      "confirmed": true,
+      "note": "Techno",
+      "url": "https://dierakete.com/programm/",
+      "club": "die-rakete-nuernberg",
       "venue": null,
       "time": null
     }
